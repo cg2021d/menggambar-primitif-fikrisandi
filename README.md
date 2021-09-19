@@ -1,3 +1,4 @@
-# menggambar-primitif-fikrisandi
-menggambar-primitif-fikrisandi created by GitHub Classroom <br>
-Menggambar primitif dengan webGL
+# Menggambar primitif dengan webGL <br>
+Muhammad Fikri Sandi Pratama <br>
+05111940000195 <br>
+Grafika Komputer D
